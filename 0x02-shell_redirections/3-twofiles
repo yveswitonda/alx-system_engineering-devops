@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "Contents of /etc/passwd:"
-sudo cat /etc/passwd
-
-echo "Contents of /etc/hosts:"
-sudo cat /etc/hosts
+sudo cat /etc/passwd /etc/hosts
